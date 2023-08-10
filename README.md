@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello! Meu nome é Leandro Cardoso, sou graduado em ADM e estudo <strong>Engenharia de Software</strong> </br>
-  Atualmente trabalho na maior companhia aerea da America Larita, a LATAM Airlines.
+  Atualmente trabalho na maior companhia aerea da America Latina, a LATAM Airlines.
 </p>
 
 <p align="left">
